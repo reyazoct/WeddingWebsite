@@ -1,0 +1,68 @@
+{
+  "application": {
+    "name": "The wedding of Saba & Reyaz",
+    "description": "The wedding of Saba & Reyaz. 17th Dec, 2024",
+    "version": "1.0.0"
+  },
+  "wedding": {
+    "akad": {
+      "tanggal": "17th Dec, 2024",
+      "jam": "7.00 PM onwards",
+      "lokasi": "Bhilai Club",
+      "alamat": "BHILAI CLUB, near Jayanti stadium, Civic Center Area, Bhilai, Chhattisgarh, India",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/tR7Cd38bGymtytU9A",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.3382998939946!2d81.342321!3d21.178715900000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a29234b0731870b%3A0x93f6f3acf36ebaeb!2sBHILAI%20CLUB!5e0!3m2!1sen!2sin!4v1729390379050!5m2!1sen!2sin"
+      }
+    },
+    "resepsi": {
+      "tanggal": "19th Dec, 2024",
+      "jam": "7.00 PM onwards",
+      "lokasi": "Mahendra Resort",
+      "alamat": "Mahendra Resort, chowk, Karhidih, Dhamdha Rd, Durg, Chhattisgarh 491001",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/9yUPAUfbxn1hBYTs7",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.226129278339!2d81.2966411!3d21.2228798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a293d0a6f3082cf%3A0x1a36b16793f8a318!2sMahendra%20Resort!5e0!3m2!1sen!2sin!4v1729390477402!5m2!1sen!2sin"
+      }
+    },
+    "mempelai": {
+      "pria": {
+        "namaDepan": "Reyaz",
+        "namaBelakang": "Ahmad",
+        "namaPanggilan": "Ipul",
+        "orangTua": {
+          "keterangan": "",
+          "pria": "",
+          "wanita": ""
+        },
+        "foto": "/assets/images/mempelai/IMG_4918.png",
+        "bg": "rgb(229, 229, 203)"
+      },
+      "wanita": {
+        "namaDepan": "Saba",
+        "namaBelakang": "Shireen",
+        "namaPanggilan": "Cindy",
+        "orangTua": {
+          "keterangan": "",
+          "pria": "",
+          "wanita": ""
+        },
+        "foto": "/assets/images/mempelai/IMG_4484.jpeg",
+        "bg": "rgb(213, 206, 163)"
+      }
+    }
+  },
+  "hero": {
+    "banner": "/assets/images/hero/banner.jpg"
+  },
+  "galeri": [
+    "/assets/images/galeri/galeri-01.webp",
+    "/assets/images/galeri/galeri-02.webp",
+    "/assets/images/galeri/galeri-03.webp",
+    "/assets/images/galeri/galeri-04.webp",
+    "/assets/images/galeri/galeri-05.webp",
+    "/assets/images/galeri/galeri-06.webp",
+    "/assets/images/galeri/galeri-07.webp",
+    "/assets/images/galeri/galeri-08.webp"
+  ]
+}
